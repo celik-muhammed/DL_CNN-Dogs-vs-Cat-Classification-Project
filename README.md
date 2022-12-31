@@ -15,6 +15,8 @@
 
 - [cats_vs_dogs](https://www.tensorflow.org/datasets/catalog/cats_vs_dogs)
 - [The Keras Blog alternative](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
+- [tf.keras.preprocessing.image.ImageDataGenerator](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/image/ImageDataGenerator)
+- [Build TensorFlow input pipelines](Build TensorFlow input pipelines)
 
     - [Convolutional Neural Network (CNN)](https://www.tensorflow.org/tutorials/images/cnn)
     - [Image classification](https://www.tensorflow.org/tutorials/images/classification)
