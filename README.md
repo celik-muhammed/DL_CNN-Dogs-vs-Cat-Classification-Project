@@ -11,9 +11,9 @@
 <img src='https://i.ibb.co/JFGXbdH/download.png' alt='' width=80%, height=400>
 <img src='https://i.ibb.co/SVSZ1kL/download.png' alt='' width=60%, height=300>
 <br>    
-<img src='https://i.ibb.co/JnYb3Zy/download.png' alt='' width=90%, height=600>
+<img src='https://i.ibb.co/JnYb3Zy/download.png' alt='' width=80%, height=100>
 <br>    
-<img src='https://i.ibb.co/TMNy1YB/download.png' alt='' width=90%, height=600>
+<img src='https://i.ibb.co/TMNy1YB/download.png' alt='' width=80%, height=100>
 </div>
 
 - [cats_vs_dogs](https://www.tensorflow.org/datasets/catalog/cats_vs_dogs)
