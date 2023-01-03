@@ -8,8 +8,8 @@
 
 <div align='center'>
 <img src='https://i.ibb.co/JFGXbdH/download.png' alt='' width=80%, height=400>
-<h3>train_data_gen Sample Images</h3>
 <img src='https://i.ibb.co/k1DQqzm/download.png' alt='' width=70%, height=400>
+<h3>train_data_gen Sample Images</h3>
 <img src='https://i.ibb.co/tmW6bsn/download.png' alt='' width=70%, height=400>
 <br>
 <img src='https://i.ibb.co/SVSZ1kL/download.png' alt='' width=60%, height=300>    
