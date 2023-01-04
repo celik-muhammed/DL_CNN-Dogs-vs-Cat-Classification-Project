@@ -30,4 +30,5 @@
     - [Convolutional Neural Network (CNN)](https://www.tensorflow.org/tutorials/images/cnn)
     - [Image classification](https://www.tensorflow.org/tutorials/images/classification)
     - [Keras: Computer Vision](https://keras.io/examples/vision/)
+    - [Classification: Accuracy](https://developers.google.com/machine-learning/crash-course/classification/accuracy#:~:text=Accuracy%20is%20one%20metric%20for,predictions%20Total%20number%20of%20predictions)
     - [data_augmentation.ipynb](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/data_augmentation.ipynb#scrollTo=pkTRazeVRwDe)
