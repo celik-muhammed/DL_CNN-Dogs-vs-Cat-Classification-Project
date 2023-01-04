@@ -4,8 +4,8 @@
 
 ## Visually Compare Models Performance In a Graph
 
-01. [DL_CNN Dogs vs Cat Classification Project](./CNN_Project_Image_Classification_with_CNN_(catdogclassifier)_Student.ipynb)
-02. [DL_CNN Dogs vs Cat Classification Project 2](CNN_Project_Image_Classification_with_CNN_(catdogclassifier).ipynb)
+01. [DL_CNN Dogs vs Cat Classification Project Colab](./CNN_Project_Image_Classification_with_CNN_(catdogclassifier)_Student.ipynb)
+02. [DL_CNN Dogs vs Cat Classification Project Kaggle-Colab](CNN_Project_Image_Classification_with_CNN_(catdogclassifier).ipynb)
 
 <div align='center'>
 <img src='https://i.ibb.co/JFGXbdH/download.png' alt='' width=80%, height=400>
