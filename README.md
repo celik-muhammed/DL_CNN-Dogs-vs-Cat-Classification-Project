@@ -1,18 +1,32 @@
 ### [Go to Projects Page](https://github.com/celik-muhammed/15P-Deep-Learning-Projects-with-Python/blob/master/README.md)
 
-# DL_CNN Cats vs Dogs Classification Project
+## DL_CNN Cats vs Dogs Classification Project
 - The Dogs vs. Cats dataset is a common computer vision dataset in which pictures are classified as either including a dog or a cat.
 - Train set includes 12500 cat-5026 dog images, validation set includes 1219 cat-1071 dog images and test set includes 6897 cat and dogs images together.
+>- Data Sources: [Kaggle Cats and Dogs Dataset](https://www.kaggle.com/c/dogs-vs-cats/data), [microsoft kagglecatsanddogs_5340.zip](https://www.microsoft.com/en-us/download/details.aspx?id=54765)   
+1. [DL_CNN Dogs vs Cat Classification Project Colab](./CNN_Project_Image_Classification_with_CNN_(catdogclassifier)_Student.ipynb)
 
-### [INGEST DATA from links: cats_vs_dogs.zip and EXPLORE DATA - (Sample Images)](README.md#Dataset-Sample-Images)
+## EXAMINED ADVANCED DATA AUGMENTATION TECHNIQUES
 
+#### [CPU, GPU] GENERATOR: INGEST DATA and EXPLORE DATA with tf.keras.preprocessing.image.ImageDataGenerator(...)
+2. [DL_CNN Dogs vs Cat Classification Project Kaggle-Colab](CNN_Project_Image_Classification_with_CNN_(catdogclassifier).ipynb)
+>- https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/image/ImageDataGenerator
 
-## Visually Compare Models Performance In a Graph
+#### [CPU, GPU] FROM_DIRECTORY: INGEST DATA and EXPLORE DATA with tf.keras.utils.image_dataset_from_directory(...)
+2. [DL_CNN Dogs vs Cat Classification Project Kaggle-Colab](CNN_Project_Image_Classification_with_CNN_(catdogclassifier).ipynb)
+>- https://www.tensorflow.org/api_docs/python/tf/keras/utils/image_dataset_from_directory
+>- [tf.data: Build TensorFlow input pipelines](https://www.tensorflow.org/guide/data)
 
-01. [DL_CNN Dogs vs Cat Classification Project Colab](./CNN_Project_Image_Classification_with_CNN_(catdogclassifier)_Student.ipynb)
-02. [DL_CNN Dogs vs Cat Classification Project Kaggle-Colab](CNN_Project_Image_Classification_with_CNN_(catdogclassifier).ipynb)
+#### [CPU, GPU, TPU] TFRecords: INGEST DATA and EXPLORE DATA with SAVE tf.io.TFRecordWriter(...)
+2. [DL_CNN Dogs vs Cat Classification Project Kaggle-Colab](CNN_Project_Image_Classification_with_CNN_(catdogclassifier).ipynb)
+>- https://www.tensorflow.org/api_docs/python/tf/data/TFRecordDataset
+>- https://www.tensorflow.org/api_docs/python/tf/io/TFRecordWriter
+
+- #### [Sample Images - EXPLORE DATA)](README.md#Dataset-Sample-Images)
 
 <div align='center'>
+    
+## Visually Compare Models Performance In a Graph    
 <img src='https://i.ibb.co/JFGXbdH/download.png' alt='' width=80%, height=400>
 <img src='https://i.ibb.co/k1DQqzm/download.png' alt='' width=70%, height=400>
 <h3>train_data_gen Sample Images</h3>
