@@ -1,8 +1,10 @@
 ### [Go to Projects Page](https://github.com/celik-muhammed/15P-Deep-Learning-Projects-with-Python/blob/master/README.md)
 
 # DL_CNN Cats vs Dogs Classification Project
+- The Dogs vs. Cats dataset is a common computer vision dataset in which pictures are classified as either including a dog or a cat.
+- Train set includes 12500 cat-5026 dog images, validation set includes 1219 cat-1071 dog images and test set includes 6897 cat and dogs images together.
 
-## [Ingest cats_vs_dogs.zip and explore Data](README.md#Dataset-Sample-Images)
+## [INGEST DATA from links: cats_vs_dogs.zip and EXPLORE DATA - (Sample Images)](README.md#Dataset-Sample-Images)
 
 ## Visually Compare Models Performance In a Graph
 
