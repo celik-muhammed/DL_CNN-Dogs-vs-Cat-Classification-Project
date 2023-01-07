@@ -1,6 +1,8 @@
-# DL-Dogs-vs-Cat-Classification-with-CNN-Keras-Project
-
 ### [Go to Projects Page](https://github.com/celik-muhammed/15P-Deep-Learning-Projects-with-Python/blob/master/README.md)
+
+# DL_CNN Cats vs Dogs Classification Project
+
+## [Ingest cats_vs_dogs.zip and explore Data](https://github.com/celik-muhammed/DL_CNN-Dogs-vs-Cat-Classification-Project/edit/master/README.md#Dataset%20Sample%20Images)
 
 ## Visually Compare Models Performance In a Graph
 
