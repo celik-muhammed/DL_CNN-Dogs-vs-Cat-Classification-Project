@@ -12,21 +12,16 @@
 <div align='center'>
     
 ## Visually Compare Models Performance In a Graph    
-<img src='https://i.ibb.co/JFGXbdH/download.png' alt='' width=80%, height=400>
-<img src='https://i.ibb.co/k1DQqzm/download.png' alt='' width=70%, height=400>
-<h3>train_data_gen Sample Images</h3>
-<img src='https://i.ibb.co/tmW6bsn/download.png' alt='' width=70%, height=400>
-<br>
 <h3>Scores</h3>
 <img src='https://i.ibb.co/k0Ncjh3/download.png' alt='' width=45%, height=300> 
 <img src='https://i.ibb.co/SVSZ1kL/download.png' alt='' width=45%, height=300>    
 <h3>Dataset Sample Images</h3>
-<br>    
-<img src='https://i.ibb.co/yf10zh0/download.png' alt='' width=80%, height=500>
-<br>    
-<img src='https://i.ibb.co/YjdJ0q2/download.png' alt='' width=80%, height=500>
-<br>    
-<img src='https://i.ibb.co/QCs0d4T/download.png' alt='' width=80%, height=500>
+<br><br>    
+<img src='https://i.ibb.co/yf10zh0/download.png' alt='' width=75%, height=500>
+<br><br>    
+<img src='https://i.ibb.co/YjdJ0q2/download.png' alt='' width=75%, height=500>
+<br><br>    
+<img src='https://i.ibb.co/QCs0d4T/download.png' alt='' width=75%, height=500>
 </div>
 
 
