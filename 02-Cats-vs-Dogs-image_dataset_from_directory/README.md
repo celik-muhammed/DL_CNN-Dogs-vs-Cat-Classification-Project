@@ -7,20 +7,21 @@
 > <sub>https://www.tensorflow.org/api_docs/python/tf/keras/utils/image_dataset_from_directory</sub>
 > <sub>[tf.data: Build TensorFlow input pipelines](https://www.tensorflow.org/guide/data)</sub>
 
-- #### [Sample Images - EXPLORE DATA)](README.md#Dataset-Sample-Images)
+- #### [GENERATOR Sample Images - EXPLORE DATA)](README.md#Dataset-GENERATOR)
 
 <div align='center'>
     
 ## Visually Compare Models Performance In a Graph    
 <h3>Scores</h3>
 <img src='https://i.ibb.co/k0Ncjh3/download.png' alt='' width=45%, height=300> 
-<img src='https://i.ibb.co/SVSZ1kL/download.png' alt='' width=45%, height=300>    
-<h3>Dataset Sample Images</h3>
-<br><br>    
+<img src='https://i.ibb.co/SVSZ1kL/download.png' alt='' width=45%, height=300>  
+  
+<h3>Dataset GENERATOR Sample Images</h3>
+<br> <br>    
 <img src='https://i.ibb.co/yf10zh0/download.png' alt='' width=75%, height=500>
-<br><br>    
+<br> <br>    
 <img src='https://i.ibb.co/YjdJ0q2/download.png' alt='' width=75%, height=500>
-<br><br>    
+<br> <br>    
 <img src='https://i.ibb.co/QCs0d4T/download.png' alt='' width=75%, height=500>
 </div>
 

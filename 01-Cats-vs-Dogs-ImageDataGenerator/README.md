@@ -6,7 +6,7 @@
 2. [DL_CNN Dogs vs Cat Classification Project Kaggle-Colab](CNN_Project_Image_Classification_with_CNN_(catdogclassifier).ipynb)
 > <sub>https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/image/ImageDataGenerator</sub> 
 
-- #### [Sample Images - EXPLORE DATA)](README.md#Dataset-Sample-Images)
+- #### [GENERATOR Sample Images - EXPLORE DATA)](README.md#Dataset-GENERATOR)
 
 <div align='center'>
     
@@ -15,7 +15,8 @@
 <img src='https://i.ibb.co/k0Ncjh3/download.png' alt='' width=45%, height=300> 
 <img src='https://i.ibb.co/SVSZ1kL/download.png' alt='' width=45%, height=300>   
 <br> <br> 
-<h3>train_data_gen Sample Images</h3>
+
+<h3>Dataset GENERATOR Sample Images</h3>
 <img src='https://i.ibb.co/JFGXbdH/download.png' alt='' width=80%, height=400>
 <br> <br>  
 <img src='https://i.ibb.co/tmW6bsn/download.png' alt='' width=70%, height=400> 
