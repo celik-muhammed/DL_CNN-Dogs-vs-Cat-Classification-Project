@@ -7,7 +7,7 @@
 > <sub>https://www.tensorflow.org/api_docs/python/tf/keras/utils/image_dataset_from_directory</sub>
 > <sub>[tf.data: Build TensorFlow input pipelines](https://www.tensorflow.org/guide/data)</sub>
 
-- #### [GENERATOR Sample Images - EXPLORE DATA)](README.md#Dataset-GENERATOR)
+- #### [GENERATOR Sample Images - EXPLORE DATA)](README.md#dataset-generator-sample-images)
 
 <div align='center'>
     

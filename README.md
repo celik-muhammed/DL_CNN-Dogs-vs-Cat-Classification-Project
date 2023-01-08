@@ -22,8 +22,7 @@
 > <sub>https://www.tensorflow.org/api_docs/python/tf/data/TFRecordDataset</sub>
 > <sub>https://www.tensorflow.org/api_docs/python/tf/io/TFRecordWriter</sub>
 
-- #### [Sample Images - EXPLORE DATA)](README.md#Dataset-Sample-Images)
-- #### [GENERATOR Sample Images - EXPLORE DATA)](README.md#Dataset-GENERATOR)
+- #### [GENERATOR Sample Images - EXPLORE DATA)](README.md#dataset-generator-sample-images)
 
 <div align='center'>
     
