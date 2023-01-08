@@ -31,11 +31,17 @@
 <img src='https://i.ibb.co/k0Ncjh3/download.png' alt='' width=45%, height=300> 
 <img src='https://i.ibb.co/SVSZ1kL/download.png' alt='' width=45%, height=300>    
 <h3>Dataset GENERATOR Sample Images</h3>
-<br> <br>    
+<br> <br>  
+
+#### [CPU, GPU] GENERATOR: INGEST DATA and EXPLORE DATA with tf.keras.preprocessing.image.ImageDataGenerator(...)  
 <img src='https://i.ibb.co/tmW6bsn/download.png' alt='' width=75%, height=400>
-<br> <br>    
+<br> <br>   
+
+#### [CPU, GPU] FROM_DIRECTORY: INGEST DATA and EXPLORE DATA with tf.keras.utils.image_dataset_from_directory(...) 
 <img src='https://i.ibb.co/yf10zh0/download.png' alt='' width=75%, height=500>
-<br> <br>    
+<br> <br>  
+
+#### [CPU, GPU, TPU] TFRecords: INGEST DATA and EXPLORE DATA with SAVE tf.io.TFRecordWriter(...)  
 <img src='https://i.ibb.co/0sFSYML/download.png' alt='' width=75%, height=500>
 </div>
 
