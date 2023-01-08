@@ -46,6 +46,7 @@
 - [The Keras Blog alternative](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
 - [tf.keras.preprocessing.image.ImageDataGenerator](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/image/ImageDataGenerator)
 - [Build TensorFlow input pipelines](https://www.tensorflow.org/guide/data)
+- [Apply image augmentations to the data](https://www.tensorflow.org/hub/tutorials/cropnet_on_device)
 
     - [Convolutional Neural Network (CNN)](https://www.tensorflow.org/tutorials/images/cnn)
     - [Image classification](https://www.tensorflow.org/tutorials/images/classification)
