@@ -10,17 +10,17 @@
 
 #### [CPU, GPU] GENERATOR: INGEST DATA and EXPLORE DATA with tf.keras.preprocessing.image.ImageDataGenerator(...)
 2. [DL_CNN Dogs vs Cat Classification Project Kaggle-Colab](./01-Cats-vs-Dogs-ImageDataGenerator/README.md)
->- https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/image/ImageDataGenerator
+>- <sub>https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/image/ImageDataGenerator</sub> 
 
 #### [CPU, GPU] FROM_DIRECTORY: INGEST DATA and EXPLORE DATA with tf.keras.utils.image_dataset_from_directory(...)
 2. [DL_CNN Dogs vs Cat Classification Project Kaggle-Colab](./02-Cats-vs-Dogs-image_dataset_from_directory/README.md)
->- https://www.tensorflow.org/api_docs/python/tf/keras/utils/image_dataset_from_directory
->- [tf.data: Build TensorFlow input pipelines](https://www.tensorflow.org/guide/data)
+>- <sub>https://www.tensorflow.org/api_docs/python/tf/keras/utils/image_dataset_from_directory</sub>
+>- <sub>[tf.data: Build TensorFlow input pipelines](https://www.tensorflow.org/guide/data)</sub>
 
 #### [CPU, GPU, TPU] TFRecords: INGEST DATA and EXPLORE DATA with SAVE tf.io.TFRecordWriter(...)
 2. [DL_CNN Dogs vs Cat Classification Project Kaggle-Colab](./03-Cats-vs-Dogs-TFRecordWriter/README.md)
->- https://www.tensorflow.org/api_docs/python/tf/data/TFRecordDataset
->- https://www.tensorflow.org/api_docs/python/tf/io/TFRecordWriter
+>- <sub>https://www.tensorflow.org/api_docs/python/tf/data/TFRecordDataset</sub>
+>- <sub>https://www.tensorflow.org/api_docs/python/tf/io/TFRecordWriter</sub>
 
 - #### [Sample Images - EXPLORE DATA)](README.md#Dataset-Sample-Images)
 
