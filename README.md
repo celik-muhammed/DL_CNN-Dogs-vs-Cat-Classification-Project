@@ -31,10 +31,13 @@
 <img src='https://i.ibb.co/k0Ncjh3/download.png' alt='' width=45%, height=300> 
 <img src='https://i.ibb.co/SVSZ1kL/download.png' alt='' width=45%, height=300>    
 <h3>Dataset Sample Images</h3>
-<br>    
-<img src='https://i.ibb.co/JFGXbdH/download.png' alt='' width=80%, height=400>
+<br> <br>    
+<img src='https://i.ibb.co/JFGXbdH/download.png' alt='' width=75%, height=400>
+<br> <br>    
+<img src='https://i.ibb.co/yf10zh0/download.png' alt='' width=75%, height=500>
+<br> <br>    
+<img src='https://i.ibb.co/0sFSYML/download.png' alt='' width=75%, height=500>
 </div>
-
 
 
 
