@@ -10,19 +10,22 @@
 
 <div align='center'>
     
-## Visually Compare Models Performance In a Graph    
-<img src='https://i.ibb.co/JFGXbdH/download.png' alt='' width=80%, height=400>
-<img src='https://i.ibb.co/k1DQqzm/download.png' alt='' width=70%, height=400>
-<h3>train_data_gen Sample Images</h3>
-<img src='https://i.ibb.co/tmW6bsn/download.png' alt='' width=70%, height=400>
-<br>
+## Visually Compare Models Performance In a Graph  
 <h3>Scores</h3>
 <img src='https://i.ibb.co/k0Ncjh3/download.png' alt='' width=45%, height=300> 
-<img src='https://i.ibb.co/SVSZ1kL/download.png' alt='' width=45%, height=300>    
+<img src='https://i.ibb.co/SVSZ1kL/download.png' alt='' width=45%, height=300>   
+<br> <br> 
+<h3>train_data_gen Sample Images</h3>
+<img src='https://i.ibb.co/JFGXbdH/download.png' alt='' width=80%, height=400>
+<br> <br>  
+<img src='https://i.ibb.co/tmW6bsn/download.png' alt='' width=70%, height=400> 
+<br> <br>    
+<img src='https://i.ibb.co/k1DQqzm/download.png' alt='' width=70%, height=400>
 <h3>Dataset Sample Images</h3>
-<br>    
+<br> <br>    
+<br> <br>  
 <img src='https://i.ibb.co/JnYb3Zy/download.png' alt='' width=80%, height=500>
-<br>    
+<br> <br>    
 <img src='https://i.ibb.co/0sFSYML/download.png' alt='' width=80%, height=500>
 </div>
 

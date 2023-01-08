@@ -30,9 +30,9 @@
 <h3>Scores</h3>
 <img src='https://i.ibb.co/k0Ncjh3/download.png' alt='' width=45%, height=300> 
 <img src='https://i.ibb.co/SVSZ1kL/download.png' alt='' width=45%, height=300>    
-<h3>Dataset Sample Images</h3>
+<h3>Dataset GENERATOR Sample Images</h3>
 <br> <br>    
-<img src='https://i.ibb.co/JFGXbdH/download.png' alt='' width=75%, height=400>
+<img src='https://i.ibb.co/tmW6bsn/download.png' alt='' width=75%, height=400>
 <br> <br>    
 <img src='https://i.ibb.co/yf10zh0/download.png' alt='' width=75%, height=500>
 <br> <br>    
