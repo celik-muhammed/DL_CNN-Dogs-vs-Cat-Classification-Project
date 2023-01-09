@@ -4,7 +4,7 @@
 - The Dogs vs. Cats dataset is a common computer vision dataset in which pictures are classified as either including a dog or a cat.
 - Train set includes 12500 cat-5026 dog images, validation set includes 1219 cat-1071 dog images and test set includes 6897 cat and dogs images together.
 >- Data Sources: [Kaggle Cats and Dogs Dataset](https://www.kaggle.com/c/dogs-vs-cats/data), &nbsp;&nbsp; [microsoft kagglecatsanddogs_5340.zip](https://www.microsoft.com/en-us/download/details.aspx?id=54765)   
-1. [DL_CNN Dogs vs Cat Classification Project Colab](./01-Cats-vs-Dogs-ImageDataGenerator/CNN_Project_Image_Classification_with_CNN_(catdogclassifier)_Student.ipynb)
+1. [DL_CNN Dogs vs Cat Classification Project Student.ipynb Colab](./01-Cats-vs-Dogs-ImageDataGenerator/CNN_Project_Image_Classification_with_CNN_(catdogclassifier)_Student.ipynb)
 
 ## EXAMINED ADVANCED DATA AUGMENTATION TECHNIQUES
 

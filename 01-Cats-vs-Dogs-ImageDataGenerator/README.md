@@ -3,7 +3,7 @@
 ## DL_CNN Cats vs Dogs Classification Project
 
 #### [CPU, GPU] GENERATOR: INGEST DATA and EXPLORE DATA with tf.keras.preprocessing.image.ImageDataGenerator(...)
-2. [DL_CNN Dogs vs Cat Classification Project Kaggle-Colab](CNN_Project_Image_Classification_with_CNN_(catdogclassifier).ipynb)
+2. [DL_CNN_Cats_vs_Dogs_Classification_Project_ImageDataGenerator.ipynb](CNN_Project_Image_Classification_with_CNN_(catdogclassifier).ipynb)
 > <sub>https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/image/ImageDataGenerator</sub> 
 
 - #### [Sample Images - EXPLORE DATA)](README.md#dataset-sample-images)
