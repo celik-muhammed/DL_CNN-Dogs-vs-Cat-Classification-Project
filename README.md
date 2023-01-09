@@ -43,7 +43,7 @@
 <br> <br>  
 
 #### [CPU, GPU, TPU] TFRecords: INGEST DATA and EXPLORE DATA with SAVE tf.io.TFRecordWriter(...)  
-<img src='https://i.ibb.co/0sFSYML/download.png' alt='' width=75%, height=500>
+<img src='https://i.ibb.co/q7rt6qm/download.png' alt='' width=75%, height=500>
 </div>
 
 

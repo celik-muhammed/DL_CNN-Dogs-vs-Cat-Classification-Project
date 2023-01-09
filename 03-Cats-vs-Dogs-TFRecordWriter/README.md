@@ -18,11 +18,11 @@
  
 <h3>Dataset GENERATOR Sample Images</h3>
 <br> <br>    
-<img src='https://i.ibb.co/yf10zh0/download.png' alt='' width=75%, height=500>
+<img src='https://i.ibb.co/q7rt6qm/download.png' alt='' width=75%, height=500>
 <br> <br>    
-<img src='https://i.ibb.co/YjdJ0q2/download.png' alt='' width=75%, height=500>
+<img src='https://i.ibb.co/VDP2qqD/download.png' alt='' width=75%, height=500>
 <br> <br>    
-<img src='https://i.ibb.co/QCs0d4T/download.png' alt='' width=75%, height=500>
+<img src='https://i.ibb.co/9TtDqHw/download.png' alt='' width=75%, height=500>
 </div>
 
 
