@@ -55,6 +55,8 @@
 - [tf.keras.preprocessing.image.ImageDataGenerator](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/image/ImageDataGenerator)
 - [Build TensorFlow input pipelines](https://www.tensorflow.org/guide/data)
 - [Apply image augmentations to the data](https://www.tensorflow.org/hub/tutorials/cropnet_on_device)
+- [image convert_image_dtype](https://www.tensorflow.org/api_docs/python/tf/image/convert_image_dtype)
+- [TPU-speed data pipelines: tf.data.Dataset and TFRecords](https://codelabs.developers.google.com/codelabs/keras-flowers-data/#4)
 
     - [Convolutional Neural Network (CNN)](https://www.tensorflow.org/tutorials/images/cnn)
     - [Image classification](https://www.tensorflow.org/tutorials/images/classification)
