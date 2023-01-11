@@ -3,9 +3,11 @@
 ## DL_CNN Cats vs Dogs Classification Project
 
 #### [CPU, GPU] FROM_DIRECTORY: INGEST DATA and EXPLORE DATA with tf.keras.utils.image_dataset_from_directory(...)
-2. [DL_CNN_Cats_vs_Dogs_Classification_Project_from_directory.ipynb](./DL_CNN_Cats_vs_Dogs_Classification_Project_from_directory.ipynb)
-> <sub>https://www.tensorflow.org/api_docs/python/tf/keras/utils/image_dataset_from_directory</sub>
-> <sub>[tf.data: Build TensorFlow input pipelines](https://www.tensorflow.org/guide/data)</sub>
+>2. [DL_CNN_Cats_vs_Dogs_Classification_Project_from_directory.ipynb](./DL_CNN_Cats_vs_Dogs_Classification_Project_from_directory.ipynb)
+
+<br><br>
+<sub>https://www.tensorflow.org/api_docs/python/tf/keras/utils/image_dataset_from_directory</sub>
+<sub>[tf.data: Build TensorFlow input pipelines](https://www.tensorflow.org/guide/data)</sub>
 
 - #### [GENERATOR Sample Images - EXPLORE DATA)](README.md#dataset-generator-sample-images)
 

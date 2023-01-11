@@ -3,9 +3,11 @@
 ## DL_CNN Cats vs Dogs Classification Project
 
 #### [CPU, GPU, TPU] TFRecords: INGEST DATA and EXPLORE DATA with SAVE tf.io.TFRecordWriter(...)
-2. [DL_CNN_Cats_vs_Dogs_Classification_Project_TFRecordWriter.ipynb](./DL_CNN_Cats_vs_Dogs_Classification_Project_TFRecordWriter.ipynb)
-> <sub>https://www.tensorflow.org/api_docs/python/tf/data/TFRecordDataset</sub>
-> <sub>https://www.tensorflow.org/api_docs/python/tf/io/TFRecordWriter</sub>
+>2. [DL_CNN_Cats_vs_Dogs_Classification_Project_TFRecordWriter.ipynb](./DL_CNN_Cats_vs_Dogs_Classification_Project_TFRecordWriter.ipynb)
+
+<br><br>
+<sub>https://www.tensorflow.org/api_docs/python/tf/data/TFRecordDataset</sub>
+<sub>https://www.tensorflow.org/api_docs/python/tf/io/TFRecordWriter</sub>
 
 - #### [GENERATOR Sample Images - EXPLORE DATA)](README.md#dataset-generator-sample-images)
 
