@@ -3,21 +3,22 @@
 ## DL_CNN Cats vs Dogs Classification Project
 - The Dogs vs. Cats dataset is a common computer vision dataset in which pictures are classified as either including a dog or a cat.
 - Train set includes 12500 cat-5026 dog images, validation set includes 1219 cat-1071 dog images and test set includes 6897 cat and dogs images together.
->- Data Sources: [Kaggle Cats and Dogs Dataset](https://www.kaggle.com/c/dogs-vs-cats/data), &nbsp;&nbsp; [microsoft kagglecatsanddogs_5340.zip](https://www.microsoft.com/en-us/download/details.aspx?id=54765)   
-1. [DL_CNN Dogs vs Cat Classification Project Student.ipynb Colab](./01-Cats-vs-Dogs-ImageDataGenerator/CNN_Project_Image_Classification_with_CNN_(catdogclassifier)_Student.ipynb)
+- Data Sources: [Kaggle Cats and Dogs Dataset](https://www.kaggle.com/c/dogs-vs-cats/data), &nbsp;&nbsp; [microsoft kagglecatsanddogs_5340.zip](https://www.microsoft.com/en-us/download/details.aspx?id=54765) 
+  
+>1. [DL_CNN Dogs vs Cat Classification Project Student.ipynb Colab](./01-Cats-vs-Dogs-ImageDataGenerator/CNN_Project_Image_Classification_with_CNN_(catdogclassifier)_Student.ipynb)
 
 ## 2- EXAMINED ADVANCED DATA AUGMENTATION TECHNIQUES
 
-#### [CPU, GPU] GENERATOR: INGEST DATA and EXPLORE DATA with tf.keras.preprocessing.image.ImageDataGenerator(...)
-2. [DL_CNN Dogs vs Cat Classification Project Kaggle-Colab](./01-Cats-vs-Dogs-ImageDataGenerator/README.md)
+#### A. [CPU, GPU] GENERATOR: INGEST DATA and EXPLORE DATA with tf.keras.preprocessing.image.ImageDataGenerator(...)
+>2. [DL_CNN Dogs vs Cat Classification Project Kaggle-Colab](./01-Cats-vs-Dogs-ImageDataGenerator/README.md)
 <br><br>
 
-#### [CPU, GPU] FROM_DIRECTORY: INGEST DATA and EXPLORE DATA with tf.keras.utils.image_dataset_from_directory(...)
-2. [DL_CNN Dogs vs Cat Classification Project Kaggle-Colab](./02-Cats-vs-Dogs-image_dataset_from_directory/README.md)
+#### B. [CPU, GPU] FROM_DIRECTORY: INGEST DATA and EXPLORE DATA with tf.keras.utils.image_dataset_from_directory(...)
+>2. [DL_CNN Dogs vs Cat Classification Project Kaggle-Colab](./02-Cats-vs-Dogs-image_dataset_from_directory/README.md)
 <br><br>
 
-#### [CPU, GPU, TPU] TFRecords: INGEST DATA and EXPLORE DATA with SAVE tf.io.TFRecordWriter(...)
-2. [DL_CNN Dogs vs Cat Classification Project Kaggle-Colab](./03-Cats-vs-Dogs-TFRecordWriter/README.md)
+#### C. [CPU, GPU, TPU] TFRecords: INGEST DATA and EXPLORE DATA with SAVE tf.io.TFRecordWriter(...)
+>2. [DL_CNN Dogs vs Cat Classification Project Kaggle-Colab](./03-Cats-vs-Dogs-TFRecordWriter/README.md)
 <br><br>
 
 - #### [GENERATOR Sample Images - EXPLORE DATA)](README.md#dataset-generator-sample-images)
@@ -32,15 +33,15 @@
 <h3>Dataset GENERATOR Sample Images</h3>
 <br> <br>  
 
-#### [CPU, GPU] GENERATOR: INGEST DATA and EXPLORE DATA with tf.keras.preprocessing.image.ImageDataGenerator(...)  
+>#### A. [CPU, GPU] GENERATOR: INGEST DATA and EXPLORE DATA with tf.keras.preprocessing.image.ImageDataGenerator(...)  
 <img src='https://i.ibb.co/tmW6bsn/download.png' alt='' width=75%, height=400>
 <br> <br>   
 
-#### [CPU, GPU] FROM_DIRECTORY: INGEST DATA and EXPLORE DATA with tf.keras.utils.image_dataset_from_directory(...) 
+>#### B. [CPU, GPU] FROM_DIRECTORY: INGEST DATA and EXPLORE DATA with tf.keras.utils.image_dataset_from_directory(...) 
 <img src='https://i.ibb.co/yf10zh0/download.png' alt='' width=75%, height=500>
 <br> <br>  
 
-#### [CPU, GPU, TPU] TFRecords: INGEST DATA and EXPLORE DATA with SAVE tf.io.TFRecordWriter(...)  
+>#### C. [CPU, GPU, TPU] TFRecords: INGEST DATA and EXPLORE DATA with SAVE tf.io.TFRecordWriter(...)  
 <img src='https://i.ibb.co/q7rt6qm/download.png' alt='' width=75%, height=500>
 </div>
 
