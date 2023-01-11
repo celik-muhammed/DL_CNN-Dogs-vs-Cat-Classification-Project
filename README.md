@@ -11,17 +11,23 @@
 
 #### A. [CPU, GPU] GENERATOR: INGEST DATA and EXPLORE DATA with tf.keras.preprocessing.image.ImageDataGenerator(...)
 >2. [DL_CNN Dogs vs Cat Classification Project Kaggle-Colab](./01-Cats-vs-Dogs-ImageDataGenerator/README.md)
-<br><br>
+
+<br>
 
 #### B. [CPU, GPU] FROM_DIRECTORY: INGEST DATA and EXPLORE DATA with tf.keras.utils.image_dataset_from_directory(...)
 >2. [DL_CNN Dogs vs Cat Classification Project Kaggle-Colab](./02-Cats-vs-Dogs-image_dataset_from_directory/README.md)
-<br><br>
+
+<br>
 
 #### C. [CPU, GPU, TPU] TFRecords: INGEST DATA and EXPLORE DATA with SAVE tf.io.TFRecordWriter(...)
 >2. [DL_CNN Dogs vs Cat Classification Project Kaggle-Colab](./03-Cats-vs-Dogs-TFRecordWriter/README.md)
-<br><br>
+
+<br>
 
 - #### [GENERATOR Sample Images - EXPLORE DATA)](README.md#dataset-generator-sample-images)
+
+
+
 
 <div align='center'>
     
@@ -31,20 +37,21 @@
 <img src='https://i.ibb.co/SVSZ1kL/download.png' alt='' width=45%, height=300>  
 
 <h3>Dataset GENERATOR Sample Images</h3>
-<br> <br>  
+<br> 
 
 >#### A. [CPU, GPU] GENERATOR: INGEST DATA and EXPLORE DATA with tf.keras.preprocessing.image.ImageDataGenerator(...)  
 <img src='https://i.ibb.co/tmW6bsn/download.png' alt='' width=75%, height=400>
-<br> <br>   
+
+<br> 
 
 >#### B. [CPU, GPU] FROM_DIRECTORY: INGEST DATA and EXPLORE DATA with tf.keras.utils.image_dataset_from_directory(...) 
 <img src='https://i.ibb.co/yf10zh0/download.png' alt='' width=75%, height=500>
-<br> <br>  
+
+<br>  
 
 >#### C. [CPU, GPU, TPU] TFRecords: INGEST DATA and EXPLORE DATA with SAVE tf.io.TFRecordWriter(...)  
 <img src='https://i.ibb.co/q7rt6qm/download.png' alt='' width=75%, height=500>
 </div>
-
 
 
 

@@ -5,7 +5,7 @@
 #### [CPU, GPU] GENERATOR: INGEST DATA and EXPLORE DATA with tf.keras.preprocessing.image.ImageDataGenerator(...)
 >2. [DL_CNN_Cats_vs_Dogs_Classification_Project_ImageDataGenerator.ipynb](CNN_Project_Image_Classification_with_CNN_(catdogclassifier).ipynb)
 
-<br><br>
+<br>
 <sub>https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/image/ImageDataGenerator</sub> 
 
 
@@ -18,19 +18,19 @@
 <h3>Scores</h3>
 <img src='https://i.ibb.co/k0Ncjh3/download.png' alt='' width=45%, height=300> 
 <img src='https://i.ibb.co/SVSZ1kL/download.png' alt='' width=45%, height=300>   
-<br> <br> 
+<br> 
 
 <h3>Dataset GENERATOR Sample Images</h3>
 <img src='https://i.ibb.co/JFGXbdH/download.png' alt='' width=80%, height=400>
-<br> <br>  
+<br> 
 <img src='https://i.ibb.co/tmW6bsn/download.png' alt='' width=70%, height=400> 
-<br> <br>    
+<br>   
 <img src='https://i.ibb.co/k1DQqzm/download.png' alt='' width=70%, height=400>
 <h3>Dataset Sample Images</h3>
-<br> <br>    
-<br> <br>  
+<br>    
+<br>  
 <img src='https://i.ibb.co/JnYb3Zy/download.png' alt='' width=80%, height=500>
-<br> <br>    
+<br>   
 <img src='https://i.ibb.co/0sFSYML/download.png' alt='' width=80%, height=500>
 </div>
 
