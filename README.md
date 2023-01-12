@@ -68,6 +68,8 @@
     - [Image classification](https://www.tensorflow.org/tutorials/images/classification)
     - [Keras: Computer Vision](https://keras.io/examples/vision/)
     - [data_augmentation.ipynb](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/data_augmentation.ipynb#scrollTo=pkTRazeVRwDe)
+    - [Flower pictures to TFRecords.ipynb](https://colab.research.google.com/github/GoogleCloudPlatform/training-data-analyst/blob/master/courses/fast-and-lean-data-science/03_Flower_pictures_to_TFRecords.ipynb#scrollTo=vjw8GURL8wjk)
+    - [tfrecord.ipynb](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/load_data/tfrecord.ipynb#scrollTo=nsEAACHcnm3f)
   
  - [Classification: Accuracy](https://developers.google.com/machine-learning/crash-course/classification/accuracy#:~:text=Accuracy%20is%20one%20metric%20for,predictions%20Total%20number%20of%20predictions)
  - [F1 score calculation](https://hasty.ai/docs/mp-wiki/metrics/f-beta-score)
